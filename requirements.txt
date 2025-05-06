@@ -1,0 +1,11 @@
+spacy
+bs4
+urllib3
+tqdm
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+transformers
+torch
