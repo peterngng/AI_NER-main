@@ -48,7 +48,7 @@ Our designed model is located in the `training` folder and includes the best-tra
 Use `train2.py` to train the model with your dataset:
 
 ```bash
-python training/train2.py
+python ./training/train2.py
 ```
 
 ### 2. Make Predictions
@@ -64,7 +64,7 @@ python training/pred.py
 Run `evaluate2.py` to calculate accuracy, precision, recall, and other performance metrics:
 
 ```bash
-python training/evaluate2.py
+python ./training/evaluate2.py
 ```
 
 ### 4. Check Data Integrity
@@ -72,8 +72,8 @@ python training/evaluate2.py
 Use `check.py` and `check_label.py` to verify the integrity of your dataset:
 
 ```bash
-python training/check.py
-python training/check_label.py
+python ./training/check.py
+python ./training/check_label.py
 ```
 
 ---
