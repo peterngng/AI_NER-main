@@ -113,7 +113,3 @@ SOFTWARE.
 ```
 
 ---
-
-## ✅ Author
-
-Peter Ng
