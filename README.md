@@ -56,7 +56,7 @@ python ./training/train2.py
 Use `pred.py` to predict legal entities on new documents:
 
 ```bash
-python training/pred.py
+python ./training/pred.py
 ```
 
 ### 3. Evaluate the Model
